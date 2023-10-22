@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A minimal Flask web application"""
+"""A minimal Flask web application."""
 
 from flask import Flask
 
