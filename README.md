@@ -142,4 +142,3 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 
 This project is an implementation of an AirBnB clone, with a focus on learning and applying various software development concepts and tools. The project involves creating a Python application with a MySQL database, implementing unit tests, and using environment variables.
-
